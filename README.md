@@ -1,5 +1,7 @@
 # Customer Churn Analysis & Prediction
 
+### [Click here to use the Churn Prediction App](https://card-churn-prediction-2024.streamlit.app/)
+
 ## Overview
 
 Customer churn prediction is essential for businesses to identify which customers are at risk of leaving, allowing them to take proactive measures. This project uses machine learning techniques to build predictive models that classify whether a customer will churn based on various demographic, transactional, and engagement features.
