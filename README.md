@@ -28,18 +28,26 @@ The main objectives of this project are:
 The dataset used in this project, **credit_card_churn.csv**, contains 21 features related to customer demographics, credit card usage, and engagement. The key target variable is the `Attrition_Flag`, which indicates whether a customer has churned or not.
 
 ### Key Features:
-- **CLIENTNUM**: Unique identifier for each customer.
-- **Customer_Age**: Age of the customer.
-- **Gender**: Gender of the customer (M or F).
-- **Dependent_count**: Number of dependents.
-- **Education_Level**: Educational qualification of the customer.
-- **Marital_Status**: Marital status of the customer.
-- **Income_Category**: Income category.
-- **Card_Category**: Type of credit card (Blue, Gold, Silver, Platinum).
-- **Months_on_book**: Number of months the customer has been on the books.
-- **Total_Trans_Amt**: Total transaction amount for the last 12 months.
-- **Total_Trans_Ct**: Total transaction count for the last 12 months.
-- **Avg_Utilization_Ratio**: Average credit card utilization ratio.
+- **Customer_Age**: The age of the customer.
+- **Gender**: The gender of the customer (M or F).
+- **Dependent_count**: The number of dependents that a customer has.
+- **Education_Level**: The educational qualification of the customer.
+- **Marital_Status**: The marital status of the customer (Married, Single, Divorced).
+- **Income_Category**: The income category of the customer (e.g., Less than $40K, $40K-$60K, $60K-$80K).
+- **Card_Category**: The type of credit card (Blue, Gold, Silver, Platinum).
+- **Months_on_book**: The number of months the customer has had their account open.
+- **Total_Relationship_Count**: The total number of products held by the customer.
+- **Months_Inactive_12_mon**: The number of months the customer has been inactive in the last 12 months.
+- **Contacts_Count_12_mon**: The number of contacts with the customer in the last 12 months.
+- **Credit_Limit**: The credit limit on the customer’s card.
+- **Total_Revolving_Bal**: The total revolving balance on the customer’s credit card.
+- **Avg_Open_To_Buy**: The average open-to-buy credit available on the credit card.
+- **Total_Amt_Chng_Q4_Q1**: The change in the total transaction amount between Q4 and Q1.
+- **Total_Trans_Amt**: The total transaction amount in the last 12 months.
+- **Total_Trans_Ct**: The total number of transactions in the last 12 months.
+- **Total_Ct_Chng_Q4_Q1**: The change in the total transaction count between Q4 and Q1.
+- **Avg_Utilization_Ratio**: The average credit card utilization ratio (percentage of the credit limit used).
+
   
 Target variable:
 - **Attrition_Flag**: 0 = Existing customer, 1 = Attrited customer.
@@ -48,7 +56,7 @@ Target variable:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/MahmoudSaad21/Card-Churn-Prediction.git
    ```
 
 2. Install the necessary libraries:
