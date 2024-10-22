@@ -150,3 +150,21 @@ After evaluating multiple models, **XGBoost** and **Random Forest** demonstrated
 ## Conclusion
 
 This project demonstrates how machine learning can be effectively used to predict customer churn. By building and deploying multiple models, we provide an end-to-end solution from data preprocessing to real-time prediction through a web interface. The deployment of the model as a Streamlit app offers a scalable and accessible way for businesses to integrate churn prediction into their operations.
+
+## Team Members
+
+- **Mahmoud Saad Mahmoud**  
+  Email: mahmoud.saad.mahmoud.11@gmail.com
+
+- **zeyad ahmed mostafa**  
+  Email: ziada00700@gmail.com 
+
+- **Mohamed Badr Mohamed**  
+  Email: bdr00637@gmail.com
+  
+- **Alaa Ghalib Othman**  
+  Email: ghalibalaa29@gmail.com 
+
+- **Ahmed Mohamed Tawfik**  
+  Email: ahmad970816@gmail.com 
+
