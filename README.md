@@ -81,6 +81,7 @@ Target variable:
 ├── requirements.txt                 # List of dependencies
 ├── app.py                           # Streamlit app for churn prediction
 ├── sampled_data.csv                 # sampled data for teasting
+├── mlruns                           # Folder containing model evaluation results
 ```
 
 ## Libraries Used
