@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/265175613772186535/85eaf7f5ffdf457e9a05edc3fd708e35/artifacts
+end_time: 1729669378191
+entry_point_name: ''
+experiment_id: '265175613772186535'
+lifecycle_stage: active
+run_id: 85eaf7f5ffdf457e9a05edc3fd708e35
+run_name: AdaBoost
+run_uuid: 85eaf7f5ffdf457e9a05edc3fd708e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729669369856
+status: 3
+tags: []
+user_id: root
